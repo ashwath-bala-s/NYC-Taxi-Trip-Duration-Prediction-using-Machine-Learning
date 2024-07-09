@@ -6,7 +6,7 @@ Predicting taxi trip durations is a significant challenge with practical implica
 
 **Problem Statement:**
 
-The goal of this project is to develop a machine learning model that accurately predicts the duration of taxi trips in New York City. Using features such as trip start and end times, pickup and dropoff locations, passenger count, and vendor information, the model aims to capture the underlying patterns influencing trip durations. By integrating and analyzing these features, we seek to provide accurate duration predictions that can be used for operational efficiency and enhanced customer experience in the taxi industry.
+The goal of this project is to develop a machine learning model that accurately predicts the duration of taxi trips in New York City. Using features such as trip start and end times, pickup and dropoff locations, passenger count, and vendor information, the model aims to capture the underlying patterns influencing trip durations.
 
 **Dataset:**
 
