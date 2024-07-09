@@ -50,4 +50,4 @@ The dataset used for this project 7,29,322has records and includes the following
 
 • Decision Tree Model performs better when compared to Linear Regression Model due to it's ability to capture non-linear relationships and interactions between features in the data, which are inherently handled by the tree structure of the model.
 
-**Skills:** Feature Engineering · Linear Regression · Decision Trees · Random Forest · Exploratory Data Analysis · Machine Learning
+**Skills:** Feature Engineering · Linear Regression · Decision Tree · Exploratory Data Analysis · Machine Learning
