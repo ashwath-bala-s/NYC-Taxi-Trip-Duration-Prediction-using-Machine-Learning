@@ -40,7 +40,7 @@ The dataset used for this project 7,29,322has records and includes the following
 
 • Developed Machine Learning models such as Linear Regression and Decision Tree to predict taxi trip durations.
 
-• Performed Cross Validation to imporve the model performance
+• Performed Cross Validation to improve the model performance
 
 • Analyzed and compared the performance of different models to determine the most efficient one for predicting NYC Taxi-Trip Duration
 
